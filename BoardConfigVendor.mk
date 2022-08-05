@@ -25,7 +25,6 @@ AB_OTA_PARTITIONS += \
     lk \
     mcupm \
     md1img \
-    odm \
     pi_img \
     preloader_raw \
     scp \
